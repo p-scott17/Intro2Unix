@@ -1,0 +1,11 @@
+a1 b1
+A1 b2
+B1 A1
+aaa
+abc
+Abcabc
+1234
+aabbcc
+b1a2 a3
+b3
+c4
